@@ -21,3 +21,11 @@ Keras/TensorFlow for model development
 OpenCV and PIL for image processing
 NumPy and Pandas for data manipulation
 Matplotlib for result visualization
+
+
+# warning 
+The German Traffic Signs Recognition Benchmark (GTSRB) dataset contains over 50,000 images of traffic signs captured under varying conditions. It is widely used for training and evaluating models in traffic sign classification tasks, particularly in autonomous driving research.
+
+it is highly recommended to download it 
+you can download it from here
+https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
